@@ -1,3 +1,8 @@
+@media screen and (max-width:479px){
+  .lesson{
+    flex-direction: column;
+  }    
+}
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
