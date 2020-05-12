@@ -1,12 +1,4 @@
-@media(max-width:670px){
-  .lesson{
-    width:100%;
-  }
-  .text-contents{
-   margin:0 auto;
-  
-  }    
-}
+
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
