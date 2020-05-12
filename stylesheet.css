@@ -1,6 +1,10 @@
-@media screen and (max-width:479px){
+@media(max-width:670px){
   .lesson{
     flex-direction: column;
+  }
+  .text-contents{
+   margin:0 auto;
+  
   }    
 }
 body {
