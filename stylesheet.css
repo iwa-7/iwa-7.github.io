@@ -1,6 +1,6 @@
 @media(max-width:670px){
   .lesson{
-    flex-direction: column;
+    width:100%;
   }
   .text-contents{
    margin:0 auto;
